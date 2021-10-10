@@ -31,7 +31,7 @@ body::before {
     background: var(--clr-dark-blue);
     background-image: linear-gradient(115deg, rgba(58, 76, 158, 0.87), 
     rgba(136, 169, 206, 0.63)), 
-    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    src(pic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
